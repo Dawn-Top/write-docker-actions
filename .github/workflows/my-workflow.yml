@@ -12,6 +12,4 @@ jobs:
       - name: hello-action
         uses:  ./.github/actions/hello-world
         with: 
-          firstGreeting: "Hello Dawn"
-          secondGreeting: "How are you?"
-          thirdGreeting: "That's nice"
+          thirdGreeting: "Dawn"
